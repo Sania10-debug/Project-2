@@ -1,2 +1,2 @@
 # Project-2
-Personal responsive Blog website 
+Travel Explorer Website
